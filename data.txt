@@ -1,3 +1,5 @@
 Name: María Lucía Marconi
 Age: 34
-Favorite Color: green
+Favorite Color: Green
+Favorite animal: Dogs and lions
+Favorite Book: Harry Potter
